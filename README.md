@@ -13,14 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
 Find the screenshot in the Solution-screenshots in this repository.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://esthercate.github.io/3-column-preview-card-component/)
+- Live Site URL: [Live site URL here](https://esthercate.github.io/3-column-preview-card-component/)
 
 ## My process
 
