@@ -68,13 +68,14 @@ p {
 .learn-more {
     width: 65%;
     padding: 1rem;
-    border: none;
+    border: 1px solid transparent;
     border-radius: 30px;
     color: var(--Very-light-gray);
     font-family: 'Lexend Deca', sans-serif;
     font-size: .93rem;
     font-weight: bolder;
     letter-spacing: 1px;
+    cursor: pointer;
     
 }
 .sedans-card .learn-more {
